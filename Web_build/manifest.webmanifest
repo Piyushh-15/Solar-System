@@ -1,0 +1,15 @@
+{
+    "name": "Solar_system_231VOA41",
+    "short_name": "Solar_system_231VOA41",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#231F20",
+    "theme_color": "#000",
+    "description": "Solar System By Piyush",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
